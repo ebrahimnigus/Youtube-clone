@@ -50,4 +50,4 @@ Screenshot
 
 > cd youtube-clone
 
-npm install
+> npm install
